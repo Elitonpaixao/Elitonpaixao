@@ -51,7 +51,7 @@ Além disso, tenho grande interesse em análise de dados, aprendizado de máquin
 
 ## 🚀 Conecte-se Comigo
 🔗 [LinkedIn](https://www.linkedin.com/in/eliton-paixao)  
-📧 **E-mail:** [SeuEmail@email.com](mailto:elitonpaixao@hotmail.com)
+📧 **E-mail:** [elitonpaixao@hotmail.com](mailto:elitonpaixao@hotmail.com)
 
 ---
 
