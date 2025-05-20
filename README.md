@@ -1,58 +1,44 @@
 ### Olá, eu sou Eliton Paixão! 👋
 
-🚀 **Engenheiro Eletricista | Data Science | Data Analytics **  
-📍 Maracanaú, Brasil
+🎓 **Engenheiro Eletricista | Futuro Cientista de Dados**
+📍 Fortaleza, Brasil
 
 ---
 
 ## 📌 Sobre Mim
-Sou um profissional apaixonado por tecnologia, ciência de dados e inovação. Minha formação inclui:
-- **Ciências de Dados** na **Unifanor Wyden** (2022 - 2024)
-- **Engenharia Elétrica** na **Unifanor Wyden** (2017 - 2023)
-- **Tecnólogo em Telemática** na **Universidade Estácio do Ceará** (2007 - 2012)
-- **Técnico em Informática e Eletrônica** na **CEPEP - Escola Técnica de Fortaleza** (2003 - 2005)
 
-Atualmente, atuo como **Field Service Engineer** na **Giesecke + Devrient**, onde supervisiono a produção e manutenção de equipamentos, garantindo a eficiência operacional e qualidade dos processos.
+Sou formado em Engenharia Elétrica e Telemática, com ampla experiência técnica na área de automação e manutenção industrial. Atualmente, estou em transição de carreira para a área de **Dados**, com foco em **Ciência de Dados** e **Análise de Dados**.
 
-Além disso, tenho grande interesse em análise de dados, aprendizado de máquina e soluções tecnológicas que otimizam processos industriais e empresariais.
+Concluí o curso de **Ciência de Dados** na Wyden, onde adquiri uma base sólida em Python, estatística, visualização de dados e modelagem preditiva. e participando de bootcamps voltados ao mercado, como o **Suzano Python Developer**, onde desenvolvi projetos práticos com Python, Power BI e SQL.
+
+Busco aplicar minha bagagem técnica à análise de dados para gerar insights e soluções inteligentes que otimizem processos e decisões.
 
 ---
 
-## 💼 Experiência Profissional
-### **Giesecke & Devrient** - (2015 - Atual)
-- Supervisão operacional e manutenção de equipamentos do Banco Central
-- Controle de produção e execução de serviços
-- Alimentação de tabelas e gráficos operacionais
+## 🛠️ Principais Competências
 
-### **Experiências Anteriores**
-- **NCR Corporation** (2015) - Customer Engineer I
-- **OKI Brasil** (2014 - 2015) - Técnico em Automação
-- **Itautec** (2008 - 2014) - Técnico em Automação Bancária
-- **Itamaraty** (2006 - 2008) - Técnico de Manutenção
-- **Star Service** (2005 - 2006) - Representante Técnico
-- **Vicunha Têxtil** (2000 - 2002) - Aux. de Manutenção
+* **Python** (Pandas, NumPy, Matplotlib, etc.)
+* **SQL** (consultas, joins, modelagem)
+* **Power BI** (dashboards interativos)
+* **Git & GitHub** (controle de versão)
+* **Excel Avançado**
 
 ---
 
-## 📊 Habilidades Técnicas
-✅ **Data Science & Analytics**: Python, SQL, Power BI, Machine Learning, Estatística
-✅ **Engenharia & Manutenção**: Automação, Eletrônica, Telecomunicações, IoT
-✅ **Gestão & Processos**: Supervisão Operacional, Controle de Produção, Gestão de Projetos
-✅ **Ferramentas & Tecnologias**: Power BI, Excel Avançado, GitHub, SAP PM
+## 🚀 Em Preparação
+
+* Projeto de monitoramento de qualidade da água com IoT + Análise de Dados
+* Construção de dashboards com dados reais
+* Prática em projetos de automação com Python
 
 ---
 
-## 🏆 Projetos & Iniciativas
-🔹 **Monitoramento de Qualidade da Água com IoT**: Desenvolvimento de um sistema para monitoramento em tempo real da qualidade da água para aplicações em piscicultura e outros setores.
-🔹 **Dashboards Interativos no Power BI**: Criação de relatórios gerenciais otimizados para tomada de decisão baseada em dados.
-🔹 **Automação de Processos Industriais**: Aplicação de tecnologias emergentes para otimização de processos e manutenção preditiva.
+## 📫 Contato
+
+* 🔗 [LinkedIn](https://www.linkedin.com/in/eliton-paixao)
+* 📂 [GitHub](https://github.com/Elitonpaixao)
 
 ---
 
-## 🚀 Conecte-se Comigo
-🔗 [LinkedIn](https://www.linkedin.com/in/eliton-paixao)  
-📧 **E-mail:** [elitonpaixao@hotmail.com](mailto:elitonpaixao@hotmail.com)
+💡 *"Migrar para a área de dados é um novo começo, e estou preparado para crescer, aprender e contribuir com soluções baseadas em dados."*
 
----
-
-💡 *"O aprendizado contínuo é a chave para o sucesso profissional e pessoal."*
